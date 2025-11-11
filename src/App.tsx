@@ -6,7 +6,6 @@ function App() {
       <button className="bg-orange-600 text-white">Contact</button>
       <button className="bg-orange-600 text-white">Contact</button>
       <button className="bg-orange-600 text-white">Contact</button>
-      <button className="bg-orange-600 text-white">Contact</button>
 
       <div className="credits" data-gfe-screenshot-exclude="true">
         A challenge by{" "}
