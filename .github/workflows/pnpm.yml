@@ -26,3 +26,12 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Build
+        run: pnpm build
+    
+    
